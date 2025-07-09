@@ -32,7 +32,3 @@ Usage:
 4.Enter the desired option number to perform the corresponding action.
 
 
-Contact:
-For support, please email me at aysegul.atici@std.yildiz.edu.tr.
-
-
